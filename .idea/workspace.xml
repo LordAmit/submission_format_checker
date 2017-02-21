@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c89be75-eac8-40d9-8d08-9fd8c9d759a9" name="Default" comment="Template class that will contain information related to template of checking.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config_reader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission_entity.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config_reader.py" afterPath="$PROJECT_DIR$/config_reader.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log.py" afterPath="$PROJECT_DIR$/log.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/submission_entity.py" afterPath="$PROJECT_DIR$/submission_entity.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template.cfg" afterPath="$PROJECT_DIR$/template.cfg" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
