@@ -30,7 +30,7 @@ The following are needed to be done to complete this.
 
 ### Required / Specification  files
 
-- [ ] Create a configuration template file, which will: 
+- [x] Create a configuration template file, which will: 
 - [ ] specify the names of zipped submission
 - [ ] specify number of files to be present in submission,
 - [ ] specify the files to be present in submission, 
